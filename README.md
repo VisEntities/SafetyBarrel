@@ -1,4 +1,4 @@
-# Your invisibility cloak in Rust
+# Your invisibility cloak in Rust!
 Tired of constantly running and hiding from danger? Say goodbye to those days with SafetyBarrel. Now, you can explore the wilderness with confidence, knowing that danger can't touch you. Don't wait any longer! Barrel your way out of trouble and face your enemies head-on!
 
 ![](https://i.imgur.com/SHNWh5s.png)
